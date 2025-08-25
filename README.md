@@ -69,3 +69,4 @@ else:
 <img width="668" height="83" alt="Screenshot 2025-08-21 160511" src="https://github.com/user-attachments/assets/40dc61b6-5a02-4fe5-ab9a-9d33b95e477d" />
 
 ## Result
+Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
